@@ -5,23 +5,32 @@
  */
 
 :root {
-    /* El color de acento: un rojo sangre vibrante para los enlaces (puedes cambiar este HEX) */
-    --accent: #ff3333; 
-    --accent-dark: #cc0000;
+    /* Tus colores de acento */
+    --accent-orange: #ee7b2e;
+    --accent-red: #e32332;
+    --accent-yellow: #f6c727;
+
+    /* El color principal para enlaces y detalles automáticos (Elegí el rojo, pero puedes cambiarlo) */
+    --accent: var(--accent-red); 
     
-    /* Invertimos los colores: ahora "black" serán números RGB casi blancos para los títulos */
-    --black: 240, 240, 240; 
+    /* Blanco puro para los títulos (en formato RGB para la plantilla) */
+    --black: 255, 255, 255; 
     
-    /* Grises adaptados para fondo oscuro */
-    --gray: 150, 150, 150;
-    --gray-light: 34, 41, 57; /* Gris muy oscuro para el fondo de los bloques de código */
-    --gray-dark: 200, 200, 200; /* Gris claro para que los párrafos se lean bien */
+    /* Blanco puro para el texto de los párrafos */
+    --gray-dark: 255, 255, 255; 
     
-    /* Variables personalizadas que agregamos para el fondo */
-    --bg-color: #121212; 
+    /* Grises muy oscuros para que no desentonen con el fondo negro */
+    --gray: 40, 40, 40; /* Para sombras */
+    --gray-light: 25, 25, 25; /* Para el fondo de bloques de código */
+    
+    /* El fondo Negro Puro */
+    --bg-color: #000000; 
+    
+    /* Tu Degradé Naranja y Amarillo */
+    --under-gradient: linear-gradient(135deg, var(--accent-orange), var(--accent-yellow));
+
     --box-shadow:
-        0 2px 6px rgba(0, 0, 0, 25%), 0 8px 24px rgba(0, 0, 0, 33%),
-        0 16px 32px rgba(0, 0, 0, 33%);
+        0 2px 6px rgba(255, 255, 255, 5%), 0 8px 24px rgba(255, 255, 255, 5%);
 }
 
 body {
@@ -30,7 +39,7 @@ body {
     padding: 0;
     text-align: left;
     
-    /* Quitamos el degradado blanco por defecto y ponemos un fondo oscuro sólido */
+    /* Aplicamos el fondo negro puro */
     background-color: var(--bg-color); 
     
     word-wrap: break-word;
@@ -148,4 +157,21 @@ hr {
 	clip-path: inset(50%);
 	/* added line to stop words getting smushed together (as they go onto separate lines and some screen readers do not understand line feeds as a space */
 	white-space: nowrap;
+}
+
+/* --- CLASES ALTERNATIVAS "USUARIOS DEL UNDER" --- */
+
+/* Úsala para pintar textos con el degradado naranja/amarillo */
+.texto-degrade {
+    background: var(--under-gradient);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    color: transparent;
+}
+
+/* Úsala para cajas, botones o secciones con fondo degradado */
+.fondo-degrade {
+    background: var(--under-gradient);
+    color: #000000; /* Obliga a que el texto sobre el degradado sea negro para que resalte */
 }
