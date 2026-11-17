@@ -2,7 +2,7 @@
 title: 'Detrás de Andry Bett, músico y diseñador'
 description: 'Hablamos con Agustín Andribet, que viene de lanzar su nuevo EP "Mufa" junto al rapero uruguayo Arquero.'
 pubDate: 'Aug 08 2026'
-heroImage: 'andry-bett.jpg'
+heroImage: '/andry-bett.jpg'
 ---
 Andry Bett es un músico, productor y diseñador gráfico argentino que viene haciéndose un nombre en la escena indie nacional y latinoamericana. Sus más recientes trabajos muestran su lado más pop, relajado, íntimo y minimalista. Abierto a constantes colaboraciones, en el álbum "Medio gracioso" (2025) invita a infinidad de artistas a participar, que van desde El Príncipe Idiota y Doppel Gangs hasta Paula Prieto y Paul Higgs. Su nuevo EP "Mufa" en colaboración con Arquero, contiene aspectos más introspectivos. Agradecemos su amabilidad en concedernos la siguiente entrevista.
 
