@@ -2,7 +2,7 @@
 title: 'Detrás de Andry Bett, músico y diseñador'
 description: 'Hablamos con Agustín Andribet, que viene de lanzar su nuevo EP "Mufa" junto al rapero uruguayo Arquero.'
 pubDate: 'Aug 08 2026'
-heroImage: '../../assets/blog-placeholder-3.jpg'
+heroImage: '../../assets/andry-bett.jpg'
 ---
 
 **Queríamos que nos contaras un poco como tu backstory, cómo empezaste en la música.**
