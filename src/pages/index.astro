@@ -3,6 +3,11 @@ import BaseHead from '../components/BaseHead.astro';
 import Footer from '../components/Footer.astro';
 import Header from '../components/Header.astro';
 import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
+import { getCollection } from 'astro:content';
+
+const posts = (await getCollection('blog')).sort(
+	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
+);
 ---
 
 <!doctype html>
@@ -29,6 +34,29 @@ import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
 			<p>
 				Explora nuestros últimos <a href="/blog">artículos</a>
 			</p>
+			<section>
+    <h2>Últimos Artículos</h2>
+    <ul class="lista-articulos">
+        {
+            posts.slice(0, 3).map((post) => (
+                <li>
+                    <a href={`/blog/${post.slug}/`}>
+                        <img width={720} height={360} src={post.data.heroImage} alt="" />
+                        <h4 class="title">{post.data.title}</h4>
+                        <p class="date">
+                            {post.data.pubDate.toLocaleDateString('es-ES', {
+                                year: 'numeric',
+                                month: 'long',
+                                day: 'numeric',
+                            })}
+                        </p>
+                    </a>
+                </li>
+            ))
+        }
+    </ul>
+    <p><a href="/blog">Ver todas las publicaciones &rarr;</a></p>
+</section>
 		</main>
 		<Footer />
 	</body>
