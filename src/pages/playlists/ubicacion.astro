@@ -1,0 +1,69 @@
+---
+import BaseHead from '../../components/BaseHead.astro';
+import Header from '../../components/Header.astro';
+import Footer from '../../components/Footer.astro';
+import { SITE_TITLE, SITE_DESCRIPTION } from '../../consts';
+---
+
+<!DOCTYPE html>
+<html lang="es">
+	<head>
+		<BaseHead title={`Playlists | ${SITE_TITLE}`} description={SITE_DESCRIPTION} />
+		<style>
+			.lista-playlists {
+				list-style: none;
+				padding: 0;
+				display: flex;
+				flex-direction: column;
+				gap: 1.5rem;
+			}
+			.item-playlist {
+				background-color: var(--gray-light);
+				padding: 1.5rem;
+				border-radius: 8px;
+				border-left: 4px solid var(--accent-yellow); /* Detalle amarillo */
+			}
+			.item-playlist a {
+				color: rgb(var(--black)); /* Blanco puro */
+				text-decoration: none;
+				font-size: 1.2rem;
+				font-weight: bold;
+			}
+			.item-playlist a:hover {
+				color: var(--accent-red); /* Efecto hover en rojo */
+			}
+			.volver {
+				display: inline-block;
+				margin-bottom: 1rem;
+				color: var(--accent-orange);
+			}
+		</style>
+	</head>
+	<body>
+		<Header />
+		<main>
+			<a href="/playlists" class="volver">&larr; Volver a Categorías</a>
+			<h1 class="texto-degrade">Título de la Subsección</h1>
+			<p>Descripción de las playlists que hay aquí.</p>
+			
+			<ul class="lista-playlists">
+				<!-- Playlist 1 -->
+				<li class="item-playlist">
+					<a href="URL_DE_TU_PLAYLIST_AQUI" target="_blank" rel="noopener noreferrer">
+						📻 Nombre de la Playlist 1
+					</a>
+					<p>Breve descripción de los géneros o bandas que incluye.</p>
+				</li>
+				
+				<!-- Playlist 2 -->
+				<li class="item-playlist">
+					<a href="URL_DE_TU_PLAYLIST_AQUI" target="_blank" rel="noopener noreferrer">
+						📻 Nombre de la Playlist 2
+					</a>
+					<p>Breve descripción de los géneros o bandas que incluye.</p>
+				</li>
+			</ul>
+		</main>
+		<Footer />
+	</body>
+</html>
