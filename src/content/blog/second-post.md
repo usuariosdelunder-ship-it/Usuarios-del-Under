@@ -1,16 +1,33 @@
 ---
-title: 'Second post'
-description: 'Lorem ipsum dolor sit amet'
-pubDate: 'Jul 15 2022'
-heroImage: '../../assets/blog-placeholder-4.jpg'
+title: 'Un pequeño diálogo con Mis Peores Enemigos'
+description: 'Charlamos con Tomás y Julián Granero sobre su último EP "Segundo Lugar"'
+pubDate: 'Aug 02 2026'
+heroImage: '../../assets/MPE.jpg'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
+Mis Peores Enemigos es una banda de rock alternativo  proveniente de la Zona Sur del GBA. Jocosamente, acuñaron el término conurbanogaze para identificarse en sus comienzos. A pesar de que su nombre pueda sugerir rasgos de antagonistas, siempre se muestran amistosos. El conjunto lo integran los hermanos Tomás Granero en guitarra y Julián Granero en bajo, Constanza Montes en voz y Julián Palmieri en batería. Este sábado, despiden su primer disco y le dan oficialmente la bienvenida a su nuevo EP. A continuación, les compartimos un breve intercambio con los hermanos Granero.
 
-Morbi tristique senectus et netus. Id semper risus in hendrerit gravida rutrum quisque non tellus. Habitasse platea dictumst quisque sagittis purus sit amet. Tellus molestie nunc non blandit massa. Cursus vitae congue mauris rhoncus. Accumsan tortor posuere ac ut. Fringilla urna porttitor rhoncus dolor. Elit ullamcorper dignissim cras tincidunt lobortis. In cursus turpis massa tincidunt dui ut ornare lectus. Integer feugiat scelerisque varius morbi enim nunc. Bibendum neque egestas congue quisque egestas diam. Cras ornare arcu dui vivamus arcu felis bibendum. Dignissim suspendisse in est ante in nibh mauris. Sed tempus urna et pharetra pharetra massa massa ultricies mi.
+**UdU: ¿Qué los influenció para este EP?**
 
-Mollis nunc sed id semper risus in. Convallis a cras semper auctor neque. Diam sit amet nisl suscipit. Lacus viverra vitae congue eu consequat ac felis donec. Egestas integer eget aliquet nibh praesent tristique magna sit amet. Eget magna fermentum iaculis eu non diam. In vitae turpis massa sed elementum. Tristique et egestas quis ipsum suspendisse ultrices. Eget lorem dolor sed viverra ipsum. Vel turpis nunc eget lorem dolor sed viverra. Posuere ac ut consequat semper viverra nam. Laoreet suspendisse interdum consectetur libero id faucibus. Diam phasellus vestibulum lorem sed risus ultricies tristique. Rhoncus dolor purus non enim praesent elementum facilisis. Ultrices tincidunt arcu non sodales neque. Tempus egestas sed sed risus pretium quam vulputate. Viverra suspendisse potenti nullam ac tortor vitae purus faucibus ornare. Fringilla urna porttitor rhoncus dolor purus non. Amet dictum sit amet justo donec enim.
+**Julián Granero:** Aparecieron conceptos que nos gustaron: tirar el dado, apostar un poco a la suerte, darse cuenta que después del final llega otro más tarde.
 
-Mattis ullamcorper velit sed ullamcorper morbi tincidunt. Tortor posuere ac ut consequat semper viverra. Tellus mauris a diam maecenas sed enim ut sem viverra. Venenatis urna cursus eget nunc scelerisque viverra mauris in. Arcu ac tortor dignissim convallis aenean et tortor at. Curabitur gravida arcu ac tortor dignissim convallis aenean et tortor. Egestas tellus rutrum tellus pellentesque eu. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet. Ut enim blandit volutpat maecenas volutpat blandit aliquam etiam. Id donec ultrices tincidunt arcu. Id cursus metus aliquam eleifend mi.
+**UdU: El tema Dormir mal tiene algo bastante Homero de Viejas Locas.**
 
-Tempus quam pellentesque nec nam aliquam sem. Risus at ultrices mi tempus imperdiet. Id porta nibh venenatis cras sed felis eget velit. Ipsum a arcu cursus vitae. Facilisis magna etiam tempor orci eu lobortis elementum. Tincidunt dui ut ornare lectus sit. Quisque non tellus orci ac. Blandit libero volutpat sed cras. Nec tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Egestas integer eget aliquet nibh praesent tristique magna.
+**Tomás Granero:** Tiene un poco de Homero, sí. El primer disco también es bastante obrero. “Cada vez que viajo a la estación de Constitución”, más negreado imposible, tener que ir cursar muy lejos y a un laburo en el que te pagan 3 mangos.
+
+**UdU:¿El nombre Segundo lugar tuvo alguna vinculación premonitoria con el último mundial?**
+
+**JG:** Vamos a decir que sí, solo porque hay que hacer presencia en todo, hasta en la mufa. Nosotros estábamos pesentando el EP durante el partido contra Egipto. Imagínate como estaba nuestra cabeza en ese momento. Argentina es lo más grande que hay.
+
+**TG:** Qué segundo lugar, decimosexto lugar íbamos a quedar si perdíamos.
+
+**UdU: ¿Qué buscaron transmitir con la tapa del álbum?**
+
+**TG:** La casa rodante era un elemento que estaba cerca de la casa de Coti. Es una foto analógica, tomada ahora pero digitalizada. Queriamos seguir con una estética que sea cercana a nosotros.*
+Ahí hay algo como de ir de un lado a otro. También aparece un billete de dos pesos, queriendo hablar un poco de la suerte. Son todos temas que aparecen en el disco.
+
+**UdU: Los últimos dos temas tienen referencias al fin de año.**
+
+**TG:** Con el orden y el nombre de las canciones queríamos reflejar el transcurso del año. Arranca con Dormir mal, que tiene esa vibra a marzo. Lo que sigue es medio primaveral. Los últimos temas son Diciembre, que es sobre purgar todo, y Felices fiestas, que es como la promesa de año nuevo que uno se hace, y en la segunda estrofa ya la cagué.
+
+*En el primer disco, la portada es una foto analógica de la suegra de Tomi.
