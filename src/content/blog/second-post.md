@@ -15,7 +15,7 @@ Mis Peores Enemigos es una banda de rock alternativo  proveniente de la Zona Sur
 
 **Tomás Granero:** Tiene un poco de Homero, sí. El primer disco también es bastante obrero. “Cada vez que viajo a la estación de Constitución”, más negreado imposible, tener que ir cursar muy lejos y a un laburo en el que te pagan 3 mangos.
 
-**UdU:¿El nombre Segundo lugar tuvo alguna vinculación premonitoria con el último mundial?**
+**UdU: ¿El nombre Segundo lugar tuvo alguna vinculación premonitoria con el último mundial?**
 
 **JG:** Vamos a decir que sí, solo porque hay que hacer presencia en todo, hasta en la mufa. Nosotros estábamos pesentando el EP durante el partido contra Egipto. Imagínate como estaba nuestra cabeza en ese momento. Argentina es lo más grande que hay.
 
